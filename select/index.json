@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PLAYER 1",
+  "base_artist": "Ryokuoushoku Shakai",
+  "createdAt": "2025-12-02T03:52:27.589152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ay Bass Player",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/01_Ay_Bass_Player_Mayer_Hawthorne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Player Way",
+      "artist": "Mase feat. Eightball & MJG",
+      "has_synced": true,
+      "path": "select/02_The_Player_Way_Mase_feat._Eightball_&_MJG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Player Way (Feat. Eightball & M.J.G.",
+      "artist": "Mase",
+      "has_synced": true,
+      "path": "select/03_The_Player_Way_(Feat._Eightball_&_M.J.G._Mase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Player (feat. Paper Lovee)",
+      "artist": "Lil Keed feat. Paper Lovee",
+      "has_synced": true,
+      "path": "select/04_Player_(feat._Paper_Lovee)_Lil_Keed_feat._Paper_Lovee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Player (feat. Paper Lovee)",
+      "artist": "Lil Keed, Paper Lovee",
+      "has_synced": true,
+      "path": "select/05_Player_(feat._Paper_Lovee)_Lil_Keed,_Paper_Lovee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Not a Player",
+      "artist": "Big Punisher",
+      "has_synced": true,
+      "path": "select/06_I'm_Not_a_Player_Big_Punisher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Player Run",
+      "artist": "Elliphant",
+      "has_synced": true,
+      "path": "select/07_Player_Run_Elliphant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Still Not a Player",
+      "artist": "Big Punisher",
+      "has_synced": true,
+      "path": "select/08_Still_Not_a_Player_Big_Punisher.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Use For a Piano Player When You Got a Player Piano",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/09_No_Use_For_a_Piano_Player_When_You_Got_a_Player_Piano_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CD Player IV",
+      "artist": "death's dynamic shroud",
+      "has_synced": true,
+      "path": "select/10_CD_Player_IV_death's_dynamic_shroud.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Job - He Was A Beautiful Player",
+      "artist": "J.K. Simmons",
+      "has_synced": true,
+      "path": "select/11_Good_Job_-_He_Was_A_Beautiful_Player_J.K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Job (He Was a Beautiful Player)",
+      "artist": "J․ K․ Simmons",
+      "has_synced": true,
+      "path": "select/12_Good_Job_(He_Was_a_Beautiful_Player)_J._K._Simmons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Be Your Player",
+      "artist": "Trick Daddy",
+      "has_synced": false,
+      "path": "select/13_I'll_Be_Your_Player_Trick_Daddy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm a Player",
+      "artist": "Too $hort",
+      "has_synced": false,
+      "path": "select/14_I'm_a_Player_Too_$hort.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Team Player",
+      "artist": "Eliza Doolittle",
+      "has_synced": true,
+      "path": "select/15_Team_Player_Eliza_Doolittle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Straight Cold Player",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/16_Straight_Cold_Player_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Player",
+      "artist": "Origa",
+      "has_synced": false,
+      "path": "select/17_Player_Origa.txt"
+    }
+  ]
+}
